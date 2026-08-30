@@ -1,0 +1,22 @@
+# Generated article outputs
+output/
+article.preview.html
+article.wechat.html
+cover-wide.jpg
+cover-square.jpg
+illli-motion-banner.gif
+draft-payload.preview.json
+
+# Local/private working material
+images/
+*.docx
+*.pdf
+assets/wechat-article-template.docx
+assets/fonts.conf
+wechat-article-studio/assets/wechat-article-template.docx
+wechat-article-studio/assets/fonts.conf
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
